@@ -15,3 +15,22 @@ Aplikasi casier self service sederhana yang menggunakan bahasa pemrograman pytho
 # Flowchart
 ![Flowchart](https://user-images.githubusercontent.com/122861923/218296666-6b90accd-4feb-4fcb-b8bc-9bc096f89e65.jpeg)
 
+# Deskripsi Task
+1. Module start.py berfungsi untuk menyediakan fitur-fitur tambahan yang tidak ada di Python standar, 
+   sehingga memungkinkan developer untuk mengerjakan tugas-tugas kompleks tanpa harus menulis kode dari awal.
+2. Module main.py berisi class, atribut dan method untuk menjalankan coding.
+3. Module user_transaction.py berfungsi sebagai inputan user selama proses transaksi barang.
+
+# Cara Menggunakan Program
+Google colab dan Vscode, jupiter notebook:
+   - Download module start.py, main.py, user_transaction.py
+   - agar lebih mudah ke 3 module tersebut bisa di gabungkan kedalam 1 notebook
+   - pertama sekali jalankan program start.py
+   - jalankan program main.py
+   - jalankan program user_transaction.py
+   - lalu masukkan inputan yang di minta
+ 
+ # Hasil Test Case
+ 1. Penginputan item (add item)
+ 
+
