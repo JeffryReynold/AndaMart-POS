@@ -31,6 +31,16 @@ Google colab dan Vscode, jupiter notebook:
    - lalu masukkan inputan yang di minta
  
  # Hasil Test Case
- 1. Penginputan item (add item)
+ 1. Test Penginputan item (add item)
+    ![Add item](https://user-images.githubusercontent.com/122861923/218297177-ff36411b-21f7-45f1-9c3f-19187f2fe54e.JPG)
+ 
+ 2. Test Delete item
+    ![Delete Item](https://user-images.githubusercontent.com/122861923/218297200-e5eb8621-2f3a-47db-80e8-0b1001c537ee.JPG)
+ 
+ 3. Test Reset transaction
+    ![Reset Transaction](https://user-images.githubusercontent.com/122861923/218297227-194af568-b1e6-41a9-b6d4-81c2253502ff.JPG)
+    
+ 4. Test Total Transaction
+    ![Total transaction](https://user-images.githubusercontent.com/122861923/218297252-803adccd-4984-4548-a394-3e57917d857e.JPG)
  
 
