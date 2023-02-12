@@ -13,5 +13,5 @@ Aplikasi casier self service sederhana yang menggunakan bahasa pemrograman pytho
 3. Mengaplikasikan penulisan kode yang bersih (clean code), mengacu pada PEP 8.
 
 # Flowchart
-
+![Flowchart](https://user-images.githubusercontent.com/122861923/218296666-6b90accd-4feb-4fcb-b8bc-9bc096f89e65.jpeg)
 
