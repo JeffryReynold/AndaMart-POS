@@ -32,6 +32,8 @@ Google colab dan Vscode, jupiter notebook:
  
  # Hasil Test Case
  1. Test Penginputan item (add item)
+ 
+ 
     ![Add item](https://user-images.githubusercontent.com/122861923/218297177-ff36411b-21f7-45f1-9c3f-19187f2fe54e.JPG)
  
  2. Test Delete item
